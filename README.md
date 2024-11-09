@@ -1,4 +1,4 @@
-# AILI-AL: An Inverted Learned Index with Auxiliary Location for Reliable Keyword Queries in Hybrid-Storage Blockchain
+# ILI-AL: An Inverted Learned Index with Auxiliary Location for Reliable Keyword Queries in Hybrid-Storage Blockchain
 
 AILI-AL is a novel index structure designed for efficient keyword queries and verification in hybrid-storage blockchain environments. This Java implementation provides a reliable and cost-effective solution for keyword queries based on learned index structures.
 
