@@ -21,3 +21,15 @@ We have provided a test.java file to evaluate the algorithm's performance in ind
 invertPath = "./test.txt";
 Test(invertPath);
 
+## Code Structure
+
+The project is organized into several key directories, each with a specific purpose:
+
+### dataowner
+This folder contains the modules related to the Data Owner (DO) entity, responsible for data upload, index construction, and updates.
+
+### server
+This folder houses the Cloud Server (CS) related modules, which handle client query requests and return query results.
+
+### SC (Smart Contracts)
+This folder contains the blockchain smart contract code for arbitration purposes. The contracts can be compiled and deployed directly to a blockchain platform that supports the Solidity language.
