@@ -20,6 +20,7 @@ We have provided a test.java file to evaluate the algorithm's performance in ind
 // Example code to perform a test
 invertPath = "./test.txt";
 Test(invertPath);
+```
 
 ## Code Structure
 
