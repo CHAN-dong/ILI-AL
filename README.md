@@ -14,4 +14,10 @@ AILI-AL is a novel index structure designed for efficient keyword queries and ve
 - SHA-256 for hashing
 - BN254 curve for elliptic curve computations
 
-The smart contract code can be directly deployed on the testing chain provided by Ethereum or on a locally established blockchain. The code includes a verification algorithm for queries.
+## Usage
+We have provided a test.java file to evaluate the algorithm's performance in index construction, querying, and verification.
+```java
+// Example code to perform a test
+invertPath = "./test.txt";
+Test(invertPath);
+
